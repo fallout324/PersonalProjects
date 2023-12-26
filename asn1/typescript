@@ -1,0 +1,73 @@
+Script started on 2022-02-02 14:48:49-05:00 [TERM="xterm" TTY="/dev/pts/14" COLUMNS="237" LINES="63"]
+]0;msong226@compute:~/cs3340/asn1[?2004h[msong226@compute asn1]$ who am i
+[?2004l]0;msong226@compute:~/cs3340/asn1[?2004h[msong226@compute asn1]$ date
+[?2004lWed Feb  2 02:49:00 PM EST 2022
+]0;msong226@compute:~/cs3340/asn1[?2004h[msong226@compute asn1]$ pwd
+[?2004l/home/msong226/cs3340/asn1
+]0;msong226@compute:~/cs3340/asn1[?2004h[msong226@compute asn1]$ pwddatewho am i[4Pexit./a.outgcc question8b.c[9P./a.outgcc question8a.c
+[?2004l[01m[Kquestion8a.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[Kquestion8a.c:24:30:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Kformula[m[K’ [[01;35m[K-Wimplicit-function-declaration[m[K]
+   24 |                              [01;35m[Kformula[m[K();
+      |                              [01;35m[K^~~~~~~[m[K
+[01m[Kquestion8a.c:[m[K At top level:
+[01m[Kquestion8a.c:34:6:[m[K [01;35m[Kwarning: [m[Kconflicting types for ‘[01m[Kformula[m[K’; have ‘[01m[Kvoid()[m[K’
+   34 | void [01;35m[Kformula[m[K() {
+      |      [01;35m[K^~~~~~~[m[K
+[01m[Kquestion8a.c:24:30:[m[K [01;36m[Knote: [m[Kprevious implicit declaration of ‘[01m[Kformula[m[K’ with type ‘[01m[Kvoid()[m[K’
+   24 |                              [01;36m[Kformula[m[K();
+      |                              [01;36m[K^~~~~~~[m[K
+]0;msong226@compute:~/cs3340/asn1[?2004h[msong226@compute asn1]$ gcc question8a.cpwd[Kdatewho am i[4Pexit./a.out
+[?2004l2
+11
+123
+1364
+15127
+167761
+1860498
+20633239
+228826127
+2537720636
+28143753123
+]0;msong226@compute:~/cs3340/asn1[?2004h[msong226@compute asn1]$ ./a.outgcc question8a.cpwd[Kdate[1Ppwdgcc question8a.c[1P.cb.c
+[?2004l[01m[Kquestion8b.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[Kquestion8b.c:24:22:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Kformula[m[K’ [[01;35m[K-Wimplicit-function-declaration[m[K]
+   24 |                      [01;35m[Kformula[m[K();
+      |                      [01;35m[K^~~~~~~[m[K
+[01m[Kquestion8b.c:[m[K At top level:
+[01m[Kquestion8b.c:35:6:[m[K [01;35m[Kwarning: [m[Kconflicting types for ‘[01m[Kformula[m[K’; have ‘[01m[Kvoid()[m[K’
+   35 | void [01;35m[Kformula[m[K() {
+      |      [01;35m[K^~~~~~~[m[K
+[01m[Kquestion8b.c:24:22:[m[K [01;36m[Knote: [m[Kprevious implicit declaration of ‘[01m[Kformula[m[K’ with type ‘[01m[Kvoid()[m[K’
+   24 |                      [01;36m[Kformula[m[K();
+      |                      [01;36m[K^~~~~~~[m[K
+]0;msong226@compute:~/cs3340/asn1[?2004h[msong226@compute asn1]$ gcc question8b.c[9P./a.outgcc question8a.c[9P./a.out
+[?2004l2
+15127
+228826127
+3461452808002
+52361396397820127
+-1139155321138466361
+-2795939413257253630
+5347811994664660839
+-8271524584511622593
+-4435149930091013822
+8566728179384764591
+4955201673824879479
+-352179712341101566
+-1268672955607851337
+-6249783109692392593
+362950400237129026
+-529246468703212673
+-387354483789832153
+7082585619549648130
+-29558693758691065
+6951655735469402015
+-7162095078750790846
+8210776971223662927
+-8789253581020694569
+881586227177639938
+7548146805174218327
+]0;msong226@compute:~/cs3340/asn1[?2004h[msong226@compute asn1]$ ./a.outgcc question8b.c[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+[?2004lexit
+
+Script done on 2022-02-02 14:49:55-05:00 [COMMAND_EXIT_CODE="0"]

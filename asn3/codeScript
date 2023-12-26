@@ -1,0 +1,424 @@
+Script started on 2022-04-05 19:18:38-04:00 [TERM="xterm" TTY="/dev/pts/19" COLUMNS="237" LINES="63"]
+]0;msong226@compute:~/cs3340/asn3[?2004h[msong226@compute asn3]$ ./asn3.sh
+[?2004lNote: Asn3Question9.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Adjacency List: 
+1  --> Destination: 6 , Weight: 78 
+ --> Destination: 2 , Weight: 28 
+ --> Destination: 23 , Weight: 69 
+ --> Destination: 13 , Weight: 73 
+ --> Destination: 10 , Weight: 4 
+ --> Destination: 9 , Weight: 18 
+ --> Destination: 25 , Weight: -75 
+ --> Destination: 5 , Weight: 57 
+ --> Destination: 7 , Weight: 66 
+ --> Destination: 19 , Weight: 33 
+ --> Destination: 14 , Weight: 21 
+ --> Destination: 4 , Weight: -65 
+ --> Destination: 20 , Weight: 42 
+ --> Destination: 21 , Weight: 58 
+ --> Destination: 16 , Weight: 21 
+ --> Destination: 17 , Weight: 75 
+
+2  --> Destination: 21 , Weight: 0 
+ --> Destination: 6 , Weight: 10 
+ --> Destination: 1 , Weight: 28 
+ --> Destination: 15 , Weight: 60 
+ --> Destination: 9 , Weight: 77 
+ --> Destination: 13 , Weight: -57 
+ --> Destination: 14 , Weight: 10 
+ --> Destination: 5 , Weight: 46 
+ --> Destination: 4 , Weight: 64 
+ --> Destination: 17 , Weight: 62 
+ --> Destination: 24 , Weight: 31 
+ --> Destination: 10 , Weight: 11 
+ --> Destination: 16 , Weight: 59 
+ --> Destination: 20 , Weight: 75 
+ --> Destination: 12 , Weight: 21 
+
+3  --> Destination: 21 , Weight: 43 
+ --> Destination: 8 , Weight: 47 
+ --> Destination: 7 , Weight: 70 
+ --> Destination: 6 , Weight: 60 
+ --> Destination: 15 , Weight: 57 
+ --> Destination: 22 , Weight: 9 
+ --> Destination: 12 , Weight: 70 
+ --> Destination: 11 , Weight: 63 
+ --> Destination: 17 , Weight: -55 
+ --> Destination: 19 , Weight: 22 
+ --> Destination: 16 , Weight: 70 
+ --> Destination: 9 , Weight: 10 
+ --> Destination: 5 , Weight: 25 
+ --> Destination: 23 , Weight: 33 
+ --> Destination: 14 , Weight: 34 
+
+4  --> Destination: 7 , Weight: 27 
+ --> Destination: 23 , Weight: 16 
+ --> Destination: 19 , Weight: 30 
+ --> Destination: 6 , Weight: 5 
+ --> Destination: 5 , Weight: 48 
+ --> Destination: 20 , Weight: 68 
+ --> Destination: 13 , Weight: 9 
+ --> Destination: 2 , Weight: 64 
+ --> Destination: 25 , Weight: 49 
+ --> Destination: 15 , Weight: 12 
+ --> Destination: 1 , Weight: -65 
+ --> Destination: 24 , Weight: 72 
+
+5  --> Destination: 13 , Weight: 64 
+ --> Destination: 7 , Weight: 29 
+ --> Destination: 24 , Weight: 57 
+ --> Destination: 25 , Weight: 65 
+ --> Destination: 6 , Weight: 48 
+ --> Destination: 18 , Weight: 40 
+ --> Destination: 2 , Weight: 46 
+ --> Destination: 4 , Weight: 48 
+ --> Destination: 11 , Weight: 22 
+ --> Destination: 9 , Weight: 68 
+ --> Destination: 1 , Weight: 57 
+ --> Destination: 22 , Weight: 31 
+ --> Destination: 10 , Weight: 45 
+ --> Destination: 3 , Weight: 25 
+
+6  --> Destination: 1 , Weight: 78 
+ --> Destination: 2 , Weight: 10 
+ --> Destination: 24 , Weight: 68 
+ --> Destination: 9 , Weight: 30 
+ --> Destination: 3 , Weight: 60 
+ --> Destination: 10 , Weight: 57 
+ --> Destination: 11 , Weight: 18 
+ --> Destination: 20 , Weight: -57 
+ --> Destination: 5 , Weight: 48 
+ --> Destination: 4 , Weight: 5 
+ --> Destination: 14 , Weight: 9 
+ --> Destination: 21 , Weight: 57 
+ --> Destination: 23 , Weight: 49 
+ --> Destination: 12 , Weight: -8 
+ --> Destination: 18 , Weight: 8 
+
+7  --> Destination: 4 , Weight: 27 
+ --> Destination: 3 , Weight: 70 
+ --> Destination: 14 , Weight: 51 
+ --> Destination: 5 , Weight: 29 
+ --> Destination: 13 , Weight: 70 
+ --> Destination: 24 , Weight: 19 
+ --> Destination: 8 , Weight: 19 
+ --> Destination: 16 , Weight: 72 
+ --> Destination: 9 , Weight: 5 
+ --> Destination: 11 , Weight: 1 
+ --> Destination: 10 , Weight: 1 
+ --> Destination: 1 , Weight: 66 
+ --> Destination: 21 , Weight: 51 
+
+8  --> Destination: 24 , Weight: 7 
+ --> Destination: 3 , Weight: 47 
+ --> Destination: 20 , Weight: 64 
+ --> Destination: 12 , Weight: 68 
+ --> Destination: 7 , Weight: 19 
+ --> Destination: 10 , Weight: 23 
+ --> Destination: 25 , Weight: 54 
+ --> Destination: 22 , Weight: 67 
+ --> Destination: 9 , Weight: 65 
+ --> Destination: 21 , Weight: 55 
+ --> Destination: 11 , Weight: 78 
+
+9  --> Destination: 19 , Weight: 7 
+ --> Destination: 6 , Weight: 30 
+ --> Destination: 11 , Weight: 20 
+ --> Destination: 21 , Weight: 29 
+ --> Destination: 20 , Weight: 14 
+ --> Destination: 7 , Weight: 5 
+ --> Destination: 2 , Weight: 77 
+ --> Destination: 10 , Weight: 38 
+ --> Destination: 1 , Weight: 18 
+ --> Destination: 17 , Weight: 40 
+ --> Destination: 3 , Weight: 10 
+ --> Destination: 5 , Weight: 68 
+ --> Destination: 8 , Weight: 65 
+ --> Destination: 16 , Weight: 69 
+ --> Destination: 14 , Weight: 10 
+
+10  --> Destination: 11 , Weight: 73 
+ --> Destination: 6 , Weight: 57 
+ --> Destination: 15 , Weight: 71 
+ --> Destination: 24 , Weight: 74 
+ --> Destination: 13 , Weight: 18 
+ --> Destination: 14 , Weight: -38 
+ --> Destination: 8 , Weight: 23 
+ --> Destination: 1 , Weight: 4 
+ --> Destination: 9 , Weight: 38 
+ --> Destination: 23 , Weight: 76 
+ --> Destination: 20 , Weight: 30 
+ --> Destination: 19 , Weight: 60 
+ --> Destination: 16 , Weight: 8 
+ --> Destination: 2 , Weight: 11 
+ --> Destination: 7 , Weight: 1 
+ --> Destination: 5 , Weight: 45 
+
+11  --> Destination: 10 , Weight: 73 
+ --> Destination: 18 , Weight: 54 
+ --> Destination: 9 , Weight: 20 
+ --> Destination: 6 , Weight: 18 
+ --> Destination: 3 , Weight: 63 
+ --> Destination: 15 , Weight: 49 
+ --> Destination: 14 , Weight: 9 
+ --> Destination: 22 , Weight: 16 
+ --> Destination: 5 , Weight: 22 
+ --> Destination: 7 , Weight: 1 
+ --> Destination: 17 , Weight: 70 
+ --> Destination: 8 , Weight: 78 
+ --> Destination: 23 , Weight: 0 
+ --> Destination: 16 , Weight: 15 
+ --> Destination: 12 , Weight: 35 
+
+12  --> Destination: 20 , Weight: 24 
+ --> Destination: 23 , Weight: 44 
+ --> Destination: 24 , Weight: 17 
+ --> Destination: 3 , Weight: 70 
+ --> Destination: 22 , Weight: 17 
+ --> Destination: 8 , Weight: 68 
+ --> Destination: 13 , Weight: 15 
+ --> Destination: 19 , Weight: 41 
+ --> Destination: 15 , Weight: 26 
+ --> Destination: 6 , Weight: -8 
+ --> Destination: 2 , Weight: 21 
+ --> Destination: 11 , Weight: 35 
+
+13  --> Destination: 5 , Weight: 64 
+ --> Destination: 20 , Weight: 39 
+ --> Destination: 7 , Weight: 70 
+ --> Destination: 15 , Weight: 25 
+ --> Destination: 10 , Weight: 18 
+ --> Destination: 25 , Weight: 31 
+ --> Destination: 1 , Weight: 73 
+ --> Destination: 2 , Weight: -57 
+ --> Destination: 17 , Weight: -49 
+ --> Destination: 12 , Weight: 15 
+ --> Destination: 21 , Weight: 77 
+ --> Destination: 4 , Weight: 9 
+ --> Destination: 14 , Weight: 23 
+ --> Destination: 24 , Weight: 34 
+ --> Destination: 18 , Weight: 30 
+ --> Destination: 23 , Weight: 17 
+ --> Destination: 19 , Weight: 31 
+ --> Destination: 16 , Weight: 67 
+
+14  --> Destination: 18 , Weight: 18 
+ --> Destination: 7 , Weight: 51 
+ --> Destination: 10 , Weight: -38 
+ --> Destination: 25 , Weight: 37 
+ --> Destination: 19 , Weight: 46 
+ --> Destination: 2 , Weight: 10 
+ --> Destination: 11 , Weight: 9 
+ --> Destination: 24 , Weight: 78 
+ --> Destination: 13 , Weight: 23 
+ --> Destination: 15 , Weight: 25 
+ --> Destination: 6 , Weight: 9 
+ --> Destination: 1 , Weight: 21 
+ --> Destination: 9 , Weight: 10 
+ --> Destination: 21 , Weight: -66 
+ --> Destination: 3 , Weight: 34 
+
+15  --> Destination: 20 , Weight: 45 
+ --> Destination: 19 , Weight: 3 
+ --> Destination: 10 , Weight: 71 
+ --> Destination: 3 , Weight: 57 
+ --> Destination: 2 , Weight: 60 
+ --> Destination: 13 , Weight: 25 
+ --> Destination: 17 , Weight: 67 
+ --> Destination: 11 , Weight: 49 
+ --> Destination: 18 , Weight: 49 
+ --> Destination: 14 , Weight: 25 
+ --> Destination: 16 , Weight: 10 
+ --> Destination: 12 , Weight: 26 
+ --> Destination: 4 , Weight: 12 
+ --> Destination: 21 , Weight: 29 
+ --> Destination: 22 , Weight: 71 
+ --> Destination: 24 , Weight: 37 
+
+16  --> Destination: 21 , Weight: 16 
+ --> Destination: 18 , Weight: -7 
+ --> Destination: 24 , Weight: 32 
+ --> Destination: 23 , Weight: 54 
+ --> Destination: 7 , Weight: 72 
+ --> Destination: 19 , Weight: 68 
+ --> Destination: 20 , Weight: 51 
+ --> Destination: 3 , Weight: 70 
+ --> Destination: 10 , Weight: 8 
+ --> Destination: 15 , Weight: 10 
+ --> Destination: 13 , Weight: 67 
+ --> Destination: 2 , Weight: 59 
+ --> Destination: 9 , Weight: 69 
+ --> Destination: 11 , Weight: 15 
+ --> Destination: 1 , Weight: 21 
+
+17  --> Destination: 19 , Weight: 14 
+ --> Destination: 23 , Weight: 78 
+ --> Destination: 20 , Weight: 48 
+ --> Destination: 3 , Weight: -55 
+ --> Destination: 22 , Weight: 48 
+ --> Destination: 15 , Weight: 67 
+ --> Destination: 13 , Weight: -49 
+ --> Destination: 25 , Weight: 38 
+ --> Destination: 24 , Weight: 1 
+ --> Destination: 9 , Weight: 40 
+ --> Destination: 2 , Weight: 62 
+ --> Destination: 18 , Weight: 63 
+ --> Destination: 11 , Weight: 70 
+ --> Destination: 1 , Weight: 75 
+
+18  --> Destination: 19 , Weight: 32 
+ --> Destination: 14 , Weight: 18 
+ --> Destination: 20 , Weight: 71 
+ --> Destination: 16 , Weight: -7 
+ --> Destination: 11 , Weight: 54 
+ --> Destination: 21 , Weight: 61 
+ --> Destination: 23 , Weight: 10 
+ --> Destination: 5 , Weight: 40 
+ --> Destination: 15 , Weight: 49 
+ --> Destination: 13 , Weight: 30 
+ --> Destination: 17 , Weight: 63 
+ --> Destination: 24 , Weight: 41 
+ --> Destination: 25 , Weight: 35 
+ --> Destination: 6 , Weight: 8 
+
+19  --> Destination: 18 , Weight: 32 
+ --> Destination: 17 , Weight: 14 
+ --> Destination: 9 , Weight: 7 
+ --> Destination: 15 , Weight: 3 
+ --> Destination: 4 , Weight: 30 
+ --> Destination: 22 , Weight: 23 
+ --> Destination: 3 , Weight: 22 
+ --> Destination: 14 , Weight: 46 
+ --> Destination: 12 , Weight: 41 
+ --> Destination: 16 , Weight: 68 
+ --> Destination: 20 , Weight: 41 
+ --> Destination: 10 , Weight: 60 
+ --> Destination: 13 , Weight: 31 
+ --> Destination: 1 , Weight: 33 
+
+20  --> Destination: 12 , Weight: 24 
+ --> Destination: 15 , Weight: 45 
+ --> Destination: 13 , Weight: 39 
+ --> Destination: 18 , Weight: 71 
+ --> Destination: 8 , Weight: 64 
+ --> Destination: 21 , Weight: 5 
+ --> Destination: 17 , Weight: 48 
+ --> Destination: 6 , Weight: -57 
+ --> Destination: 23 , Weight: 28 
+ --> Destination: 9 , Weight: 14 
+ --> Destination: 22 , Weight: 52 
+ --> Destination: 16 , Weight: 51 
+ --> Destination: 19 , Weight: 41 
+ --> Destination: 4 , Weight: 68 
+ --> Destination: 10 , Weight: 30 
+ --> Destination: 24 , Weight: 15 
+ --> Destination: 2 , Weight: 75 
+ --> Destination: 1 , Weight: 42 
+
+21  --> Destination: 2 , Weight: 0 
+ --> Destination: 3 , Weight: 43 
+ --> Destination: 16 , Weight: 16 
+ --> Destination: 20 , Weight: 5 
+ --> Destination: 25 , Weight: 5 
+ --> Destination: 18 , Weight: 61 
+ --> Destination: 9 , Weight: 29 
+ --> Destination: 13 , Weight: 77 
+ --> Destination: 24 , Weight: 69 
+ --> Destination: 6 , Weight: 57 
+ --> Destination: 8 , Weight: 55 
+ --> Destination: 15 , Weight: 29 
+ --> Destination: 7 , Weight: 51 
+ --> Destination: 14 , Weight: -66 
+ --> Destination: 1 , Weight: 58 
+
+22  --> Destination: 3 , Weight: 9 
+ --> Destination: 12 , Weight: 17 
+ --> Destination: 19 , Weight: 23 
+ --> Destination: 17 , Weight: 48 
+ --> Destination: 20 , Weight: 52 
+ --> Destination: 11 , Weight: 16 
+ --> Destination: 8 , Weight: 67 
+ --> Destination: 5 , Weight: 31 
+ --> Destination: 15 , Weight: 71 
+ --> Destination: 25 , Weight: 73 
+
+23  --> Destination: 17 , Weight: 78 
+ --> Destination: 12 , Weight: 44 
+ --> Destination: 4 , Weight: 16 
+ --> Destination: 1 , Weight: 69 
+ --> Destination: 16 , Weight: 54 
+ --> Destination: 18 , Weight: 10 
+ --> Destination: 20 , Weight: 28 
+ --> Destination: 25 , Weight: -79 
+ --> Destination: 10 , Weight: 76 
+ --> Destination: 13 , Weight: 17 
+ --> Destination: 6 , Weight: 49 
+ --> Destination: 11 , Weight: 0 
+ --> Destination: 3 , Weight: 33 
+
+24  --> Destination: 8 , Weight: 7 
+ --> Destination: 6 , Weight: 68 
+ --> Destination: 12 , Weight: 17 
+ --> Destination: 16 , Weight: 32 
+ --> Destination: 5 , Weight: 57 
+ --> Destination: 10 , Weight: 74 
+ --> Destination: 7 , Weight: 19 
+ --> Destination: 17 , Weight: 1 
+ --> Destination: 14 , Weight: 78 
+ --> Destination: 21 , Weight: 69 
+ --> Destination: 20 , Weight: 15 
+ --> Destination: 13 , Weight: 34 
+ --> Destination: 2 , Weight: 31 
+ --> Destination: 25 , Weight: 64 
+ --> Destination: 18 , Weight: 41 
+ --> Destination: 4 , Weight: 72 
+ --> Destination: 15 , Weight: 37 
+
+25  --> Destination: 5 , Weight: 65 
+ --> Destination: 21 , Weight: 5 
+ --> Destination: 13 , Weight: 31 
+ --> Destination: 8 , Weight: 54 
+ --> Destination: 14 , Weight: 37 
+ --> Destination: 17 , Weight: 38 
+ --> Destination: 23 , Weight: -79 
+ --> Destination: 4 , Weight: 49 
+ --> Destination: 1 , Weight: -75 
+ --> Destination: 24 , Weight: 64 
+ --> Destination: 22 , Weight: 73 
+ --> Destination: 18 , Weight: 35 
+
+
+Minimum Spanning Tree: 
+(1, 25) : -75
+(2, 21) : 0
+(3, 17) : -55
+(4, 1) : -65
+(5, 11) : 22
+(6, 20) : -57
+(7, 11) : 1
+(8, 24) : 7
+(9, 7) : 5
+(10, 7) : 1
+(11, 23) : 0
+(12, 6) : -8
+(13, 2) : -57
+(14, 10) : -38
+(15, 19) : 3
+(16, 10) : 8
+(17, 13) : -49
+(18, 16) : -7
+(19, 9) : 7
+(20, 21) : 5
+(21, 14) : -66
+(22, 3) : 9
+(23, 25) : -79
+(24, 17) : 1
+(25, -1) : 0
+
+
+Total weight of minimum spanning tree: -487
+]0;msong226@compute:~/cs3340/asn3[?2004h[msong226@compute asn3]$ exit
+[?2004lexit
+
+Script done on 2022-04-05 19:18:48-04:00 [COMMAND_EXIT_CODE="0"]
